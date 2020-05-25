@@ -797,7 +797,8 @@
 | [kangax-js-compat-table](https://kangax.github.io/compat-table/es6/) | Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).|
 | [mydevice.io](https://www.mydevice.io/)| Most commonly used device resolutions including phones and tablets |
 | [Codepen](https://codepen.io/) | Build, test and discover frontend code. |
-| [CSS Default Browser Values](https://www.w3schools.com/cssref/css_default_values.asp)| By W3|
+| [CSS Default Browser Values](https://www.w3schools.com/cssref/css_default_values.asp)| CSS Default Browser Values by w3 |
+| [Pictures with Transparent Outer Region](https://www.pngwing.com/) | Picture Database with Images Cut out |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
